@@ -1,0 +1,8 @@
+year,closing_balance_usd_m,withdrawals_actual_usd_m,ceiling_approved_usd_m,utilisation_pct,ytd_annualised_return_pct,balance_over_ceiling_years,note
+2020,198.32,0.0,,,,,
+2021,607.65,0.0,,,,,
+2022,1429.45,607.65,607.65,100.0,,2.35,
+2023,2122.38,1002.13,1002.13,100.0,4.824,2.12,
+2024,3245.69,1586.0,1586.0,100.0,5.095,2.05,
+2025,3434.53,2463.0,2463.88,99.96,4.27,1.39,
+2026,4294.24,1020.0,2374.33,42.96,3.574,1.81,H1 only (through 2026Q2)

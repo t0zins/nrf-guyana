@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+# nrf_ingest.py only:
+pdfplumber>=0.10
+requests>=2.31
+beautifulsoup4>=4.12
