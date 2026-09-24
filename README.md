@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22929075.svg)](https://doi.org/10.5281/zenodo.22929075)
+
 # Guyana's Natural Resource Fund: a verified dataset and a policy model
 
 A machine-readable quarterly dataset for Guyana's Natural Resource Fund (NRF),
